@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="230px" height="270px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 230 270"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <font id="FontID0" horiz-adv-x="600" font-variant="normal" style="fill-rule:nonzero" font-style="normal" font-weight="700">
+	<font-face 
+		font-family="Courier New">
+		<font-face-src>
+			<font-face-name name="Courier New Bold"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="/" horiz-adv-x="600" d="M505.327 620.178l-321.003 -691.021c-8.14967,-17.3151 -15.4962,-28.6538 -21.9923,-33.827 -8.33865,-6.82683 -18.4962,-10.3229 -30.4963,-10.3229 -13.5119,0 -25.1577,4.81894 -35.0081,14.6694 -9.82685,9.66149 -14.8348,20.8348 -14.8348,33.1656 0,8.83472 3.85042,21.6616 11.6694,38.4806l321.003 690.856c8.17329,17.1497 15.3308,28.4884 21.4962,33.6617 8.83472,6.82683 19.1813,10.1576 30.8506,10.1576 13.819,0 25.4884,-4.84256 35.3152,-14.3387 9.85047,-9.66149 14.6694,-20.6695 14.6694,-33.0003 0,-8.83472 -3.8268,-21.6616 -11.6694,-38.4806z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Courier New";font-variant:normal;font-style:normal;font-weight:bold;src:url("#FontID0") format(svg)}
+    .fil0 {fill:#474747}
+    .fnt0 {font-weight:bold;font-size:49.9999px;font-family:'Courier New'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g transform="matrix(0.989422 0 0 1 -117.517 -98.5066)">
+   <text x="115" y="135"  class="fil0 fnt0">aaaaaaaa</text>
+  </g>
+  <g transform="matrix(0.989422 0 0 1 -117.517 -98.5066)">
+   <text x="115" y="192"  class="fil0 fnt0">bbbbbbbb</text>
+  </g>
+  <g transform="matrix(0.989422 0 0 1 -117.517 -98.5066)">
+   <text x="115" y="248"  class="fil0 fnt0">cccccccc</text>
+  </g>
+  <g transform="matrix(0.989422 0 0 1 -117.517 -98.5066)">
+   <text x="115" y="305"  class="fil0 fnt0">dddddddd</text>
+  </g>
+  <g transform="matrix(0.989422 0 0 1 -117.517 -98.5066)">
+   <text x="115" y="362"  class="fil0 fnt0">eeeeeeee</text>
+  </g>
+ </g>
+</svg>
