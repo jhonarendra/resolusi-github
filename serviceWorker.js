@@ -11,9 +11,7 @@ const assets = [
 	"/apple-touch-icon-144x144.png",
 	"/apple-touch-icon-152x152.png",
 	"/apple-touch-icon-180x180.png",
-	"/favicon.ico",
-	"/favicon.png",
-	"/css/app.7ac1b19e.css",
+	"/favicon.ico"	"/css/app.0c50bc2b.css",
 	"/css/chunk-vendors.367538c2.css",
 	"/fonts/fa-brands-400.cbd387d9.eot",
 	"/fonts/fa-brands-400.d30c44aa.woff",
@@ -54,10 +52,10 @@ const assets = [
 	"/img/fa-brands-400.4568b5b5.svg",
 	"/img/fa-regular-400.26d8edc8.svg",
 	"/img/fa-solid-900.b7c60297.svg",
-	"/js/app.8544e1a2.js"
-	"/js/app.8544e1a2.js.map"
-	"/js/chunk-vendors.8ca1ebd2.js"
-	"/js/chunk-vendors.8ca1ebd2.js.map"
+	"/js/app.1c99d0de.js"
+	"/js/app.1c99d0de.js.map"
+	"/js/chunk-vendors.c0a2e755.js"
+	"/js/chunk-vendors.c0a2e755.js.map"
 ]
 self.addEventListener("install", installEvent => {
 	installEvent.waitUntil(
